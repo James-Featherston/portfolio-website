@@ -1,6 +1,6 @@
 # James Featherston's Portfolio Website
 
-## Description
+### Description
 
 Hello! 
 
@@ -10,9 +10,9 @@ This website serves not only to please recruiters, but to hopefully motivate me 
 
 Right now, this website is a work in progress and I intend to add a lot more projects to it this semester.
 
-### Demo
+#### Demo
 Place website link here
 
-### Tech Stack
+#### Tech Stack
 
-### Contact
+#### Contact
